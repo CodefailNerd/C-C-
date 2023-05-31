@@ -1,2 +1,2 @@
-# C-C-
-Alguns treinamentos na Linguagem C, na qual eu adoro 
+# C/C++
+Alguns treinamentos na Linguagem C (Algo básico)
